@@ -1,8 +1,9 @@
 # Registro de Atividades
-Última atualização: 2023-07-31 11:12:22
-Total de commits acumulados: 405
+Última atualização: 2023-07-31 12:12:25
+Total de commits acumulados: 406
 
 Últimos 20 registros:
+[2023-07-31 12:12:25] docs: clarify implementation notes
 [2023-07-31 11:12:22] refactor: improve modular structure
 [2023-07-30 19:42:01] feat: add code examples and exercises
 [2023-07-30 18:50:08] test: add unit verification tests
@@ -22,4 +23,3 @@ Total de commits acumulados: 405
 [2023-07-25 16:11:39] fix: handle edge cases in logic
 [2023-07-25 12:05:09] style: format code according to standards
 [2023-07-25 10:14:04] fix: handle edge cases in logic
-[2023-07-24 20:49:22] refactor: improve modular structure
