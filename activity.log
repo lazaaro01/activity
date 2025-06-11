@@ -1,8 +1,9 @@
 # Registro de Atividades
-Última atualização: 2025-06-11 09:42:01
-Total de commits acumulados: 2103
+Última atualização: 2025-06-11 11:15:13
+Total de commits acumulados: 2104
 
 Últimos 20 registros:
+[2025-06-11 11:15:13] docs: update documentation details
 [2025-06-11 09:42:01] feat: add code examples and exercises
 [2025-06-09 18:47:46] fix: handle edge cases in logic
 [2025-06-09 13:57:44] style: format code according to standards
@@ -22,4 +23,3 @@ Total de commits acumulados: 2103
 [2025-06-04 19:13:58] style: format code according to standards
 [2025-06-03 20:28:16] docs: clarify implementation notes
 [2025-06-03 09:02:49] refactor: improve modular structure
-[2025-05-31 19:49:38] fix: handle edge cases in logic
