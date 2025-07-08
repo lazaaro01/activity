@@ -1,8 +1,9 @@
 # Registro de Atividades
-Última atualização: 2025-07-07 18:15:17
-Total de commits acumulados: 2151
+Última atualização: 2025-07-08 08:42:45
+Total de commits acumulados: 2152
 
 Últimos 20 registros:
+[2025-07-08 08:42:45] feat: add code examples and exercises
 [2025-07-07 18:15:17] test: add unit verification tests
 [2025-07-07 12:23:53] chore: sync project structure
 [2025-07-07 08:50:55] build: organize workspace scripts
@@ -22,4 +23,3 @@ Total de commits acumulados: 2151
 [2025-06-30 16:55:36] fix: handle edge cases in logic
 [2025-06-29 21:11:44] refactor: clean up unused variables
 [2025-06-29 19:39:39] refactor: clean up unused variables
-[2025-06-29 09:02:24] docs: clarify implementation notes
