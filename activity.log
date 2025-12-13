@@ -1,8 +1,9 @@
 # Registro de Atividades
-Última atualização: 2025-12-09 12:35:19
-Total de commits acumulados: 2388
+Última atualização: 2025-12-13 08:46:43
+Total de commits acumulados: 2389
 
 Últimos 20 registros:
+[2025-12-13 08:46:43] docs: clarify implementation notes
 [2025-12-09 12:35:19] test: add unit verification tests
 [2025-12-09 12:13:41] style: format code according to standards
 [2025-12-09 09:00:30] build: organize workspace scripts
@@ -22,4 +23,3 @@ Total de commits acumulados: 2388
 [2025-11-26 18:44:40] style: format code according to standards
 [2025-11-26 14:07:46] build: organize workspace scripts
 [2025-11-25 20:36:30] feat: add code examples and exercises
-[2025-11-25 17:41:05] chore: update daily progress log
